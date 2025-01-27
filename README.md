@@ -46,7 +46,7 @@ Com base nesses dados, o programa calcula e exibe a **data de reposição**, ind
 
 1. Clone ou baixe este repositório:
    ```bash
-   git clone https://github.com/jonathanalves522/controlhe_de_medicamentos
+   https://github.com/jonathanalves522/controlhe_de_medicamentos
 
 ## 🧮 Lógica do Cálculo da Data de Reposição
 A data de reposição é calculada utilizando a fórmula:
